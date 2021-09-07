@@ -1,0 +1,2337 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.9.8)  8 SEP 2021 00:29
+entering extended mode
+**./document.tex
+(document.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2020/04/10 v1.4m Standard LaTeX document class
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@chapter=\count180
+\c@section=\count181
+\c@subsection=\count182
+\c@subsubsection=\count183
+\c@paragraph=\count184
+\c@subparagraph=\count185
+\c@figure=\count186
+\c@table=\count187
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/tocbibind\tocbibind.sty
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/titlesec\titlesec.sty
+Package: titlesec 2021/07/05 v2.14 Sectioning titles
+\ttl@box=\box47
+\beforetitleunit=\skip49
+\aftertitleunit=\skip50
+\ttl@plus=\dimen139
+\ttl@minus=\dimen140
+\ttl@toksa=\toks15
+\titlewidth=\dimen141
+\titlewidthlast=\dimen142
+\titlewidthfirst=\dimen143
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\enumerate.s
+ty
+Package: enumerate 2015/07/23 v3.00 enumerate extensions (DPC)
+\@enLab=\toks16
+) (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+\captionmargin=\dimen144
+\captionmargin@=\dimen145
+\captionwidth=\dimen146
+\caption@tempdima=\dimen147
+\caption@indent=\dimen148
+\caption@parindent=\dimen149
+\caption@hangindent=\dimen150
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count188
+\c@continuedfloat=\count189
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref.sty
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.s
+ty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefine
+keys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdfescape.s
+ty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\letltxmacro
+.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen151
+\Hy@linkcounter=\count190
+\Hy@pagecounter=\count191
+ (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc.def
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperref-langp
+atches.def
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+nguages
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count192
+ (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.def
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count193
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen152
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bigintcalc
+.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count194
+\Field@Width=\dimen153
+\Fld@charsize=\dimen154
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count195
+\c@Item=\count196
+\c@Hfootnote=\count197
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdftex.def
+File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count198
+\c@bookmark@seq@number=\count199
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\rerunfil
+echeck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter\uniquec
+ounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip51
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks18
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)) (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/enumitem\enumitem.st
+y
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\labelindent=\skip52
+\enit@outerparindent=\dimen155
+\enit@toks=\toks19
+\enit@inbox=\box48
+\enit@count@id=\count266
+\enitdp@description=\count267
+) (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen156
+\Gin@req@width=\dimen157
+) (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.sty
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count268
+\l__pdf_internal_box=\box49
+))
+Package: l3keys2e 2020-10-27 LaTeX2e option processing using LaTeX3 keys
+)
+Package: lipsum 2021-08-01 v2.5 150 paragraphs of Lorem Ipsum dummy text
+\g__lipsum_par_int=\count269
+\l__lipsum_a_int=\count270
+\l__lipsum_b_int=\count271
+
+LaTeX3 Info: Defining command \LipsumPar with sig. 'm' on line 175.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemStart with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListStart with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemEnd with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListEnd with sig. 's+m' on line
+(LaTeX3)     208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListSurrounders with sig. 's+m+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumParListItemSeparator with sig. 's+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemStart with sig. 's+m'
+(LaTeX3)     on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListStart with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemEnd with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListEnd with sig. 's+m' on
+(LaTeX3)     line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListSurrounders with sig.
+(LaTeX3)     's+m+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumSentenceListItemSeparator with sig.
+(LaTeX3)     's+m' on line 208.
+
+
+LaTeX3 Info: Defining command \SetLipsumDefault with sig. 'm' on line 214.
+
+
+LaTeX3 Info: Defining command \lipsum with sig. 'sO{\g_lipsum_default_range_tl
+(LaTeX3)     }o' on line 223.
+
+
+LaTeX3 Info: Defining command \unpacklipsum with sig.
+(LaTeX3)     'sO{\g_lipsum_default_range_tl }o' on line 225.
+
+
+LaTeX3 Info: Defining command \SetLipsumText with sig. 'm' on line 313.
+
+
+LaTeX3 Info: Defining command \SetLipsumLanguage with sig. 'm' on line 315.
+
+
+LaTeX3 Info: Defining command \setlipsum with sig. '+m' on line 344.
+
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/lipsum\lipsum.ltd.tex))
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\multicol.st
+y
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count272
+\mult@box=\box50
+\multicol@leftmargin=\dimen158
+\c@unbalance=\count273
+\c@collectmore=\count274
+\doublecol@number=\count275
+\multicoltolerance=\count276
+\multicolpretolerance=\count277
+\full@width=\dimen159
+\page@free=\dimen160
+\premulticols=\dimen161
+\postmulticols=\dimen162
+\multicolsep=\skip53
+\multicolbaselineskip=\skip54
+\partial@page=\box51
+\last@line=\box52
+\maxbalancingoverflow=\dimen163
+\mult@rightbox=\box53
+\mult@grightbox=\box54
+\mult@gfirstbox=\box55
+\mult@firstbox=\box56
+\@tempa=\box57
+\@tempa=\box58
+\@tempa=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\c@minrows=\count278
+\c@columnbadness=\count279
+\c@finalcolumnbadness=\count280
+\last@try=\dimen164
+\multicolovershoot=\dimen165
+\multicolundershoot=\dimen166
+\mult@nat@firstbox=\box94
+\colbreak@box=\box95
+\mc@col@check@num=\count281
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/background\background.s
+ty
+Package: background 2014/03/04 v2.1 background material
+ (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyval.tex
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvutils.tex
+\XKV@toks=\toks20
+\XKV@tempa@toks=\toks21
+)
+\XKV@depth=\count282
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/frontendlayer\tikz.
+sty
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgf.sty
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfrcs.st
+y
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common.tex
+\pgfutil@everybye=\toks22
+\pgfutil@tempdima=\dimen167
+\pgfutil@tempdimb=\dimen168
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-common-lists.tex))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfutil
+-latex.def
+\pgfutil@abb=\box96
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfrcs.
+code.tex
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf\pgf.revision.tex)
+Package: pgfrcs 2020/12/27 v3.1.8b (3.1.8b)
+))
+Package: pgf 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/basiclayer\pgfcore.
+sty
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/systemlayer\pgfsys.
+sty
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s.code.tex
+Package: pgfsys 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex
+\pgfkeys@pathtoks=\toks23
+\pgfkeys@temptoks=\toks24
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+filtered.code.tex
+\pgfkeys@tmptoks=\toks25
+))
+\pgf@x=\dimen169
+\pgf@y=\dimen170
+\pgf@xa=\dimen171
+\pgf@ya=\dimen172
+\pgf@xb=\dimen173
+\pgf@yb=\dimen174
+\pgf@xc=\dimen175
+\pgf@yc=\dimen176
+\pgf@xd=\dimen177
+\pgf@yd=\dimen178
+\w@pgf@writea=\write3
+\r@pgf@reada=\read2
+\c@pgf@counta=\count283
+\c@pgf@countb=\count284
+\c@pgf@countc=\count285
+\c@pgf@countd=\count286
+\t@pgf@toka=\toks26
+\t@pgf@tokb=\toks27
+\t@pgf@tokc=\toks28
+\pgf@sys@id@count=\count287
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgf.c
+fg
+File: pgf.cfg 2020/12/27 v3.1.8b (3.1.8b)
+)
+Driver file for pgf: pgfsys-pdftex.def
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-pdftex.def
+File: pgfsys-pdftex.def 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+s-common-pdf.def
+File: pgfsys-common-pdf.def 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+ssoftpath.code.tex
+File: pgfsyssoftpath.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfsyssoftpath@smallbuffer@items=\count288
+\pgfsyssoftpath@bigbuffer@items=\count289
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/systemlayer\pgfsy
+sprotocol.code.tex
+File: pgfsysprotocol.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+e.code.tex
+Package: pgfcore 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathcalc.
+code.tex
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathutil.
+code.tex)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathparse
+r.code.tex
+\pgfmath@dimen=\dimen179
+\pgfmath@count=\count290
+\pgfmath@box=\box97
+\pgfmath@toks=\toks29
+\pgfmath@stack@operand=\toks30
+\pgfmath@stack@operation=\toks31
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.code.tex
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.basic.code.tex)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.trigonometric.code.tex)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.random.code.tex)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.comparison.code.tex)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.base.code.tex)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.round.code.tex)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.misc.code.tex)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfunct
+ions.integerarithmetics.code.tex)))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmathfloat
+.code.tex
+\c@pgfmathroundto@lastzeros=\count291
+))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfint.code.
+tex)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epoints.code.tex
+File: pgfcorepoints.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@picminx=\dimen180
+\pgf@picmaxx=\dimen181
+\pgf@picminy=\dimen182
+\pgf@picmaxy=\dimen183
+\pgf@pathminx=\dimen184
+\pgf@pathmaxx=\dimen185
+\pgf@pathminy=\dimen186
+\pgf@pathmaxy=\dimen187
+\pgf@xx=\dimen188
+\pgf@xy=\dimen189
+\pgf@yx=\dimen190
+\pgf@yy=\dimen191
+\pgf@zx=\dimen192
+\pgf@zy=\dimen193
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathconstruct.code.tex
+File: pgfcorepathconstruct.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@path@lastx=\dimen194
+\pgf@path@lasty=\dimen195
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathusage.code.tex
+File: pgfcorepathusage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@shorten@end@additional=\dimen196
+\pgf@shorten@start@additional=\dimen197
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+escopes.code.tex
+File: pgfcorescopes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfpic=\box98
+\pgf@hbox=\box99
+\pgf@layerbox@main=\box100
+\pgf@picture@serial@count=\count292
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+egraphicstate.code.tex
+File: pgfcoregraphicstate.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgflinewidth=\dimen198
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransformations.code.tex
+File: pgfcoretransformations.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@pt@x=\dimen199
+\pgf@pt@y=\dimen256
+\pgf@pt@temp=\dimen257
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+equick.code.tex
+File: pgfcorequick.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eobjects.code.tex
+File: pgfcoreobjects.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epathprocessing.code.tex
+File: pgfcorepathprocessing.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+earrows.code.tex
+File: pgfcorearrows.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfarrowsep=\dimen258
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eshade.code.tex
+File: pgfcoreshade.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@max=\dimen259
+\pgf@sys@shading@range@num=\count293
+\pgf@shadingcount=\count294
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eimage.code.tex
+File: pgfcoreimage.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+eexternal.code.tex
+File: pgfcoreexternal.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfexternal@startupbox=\box101
+))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+elayers.code.tex
+File: pgfcorelayers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+etransparency.code.tex
+File: pgfcoretransparency.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+epatterns.code.tex
+File: pgfcorepatterns.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/basiclayer\pgfcor
+erdf.code.tex
+File: pgfcorerdf.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+shapes.code.tex
+File: pgfmoduleshapes.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfnodeparttextbox=\box102
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+plot.code.tex
+File: pgfmoduleplot.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-0-65.sty
+Package: pgfcomp-version-0-65 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@nodesepstart=\dimen260
+\pgf@nodesepend=\dimen261
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/compatibility\pgfco
+mp-version-1-18.sty
+Package: pgfcomp-version-1-18 2020/12/27 v3.1.8b (3.1.8b)
+))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgffor.st
+y
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/utilities\pgfkeys.s
+ty
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgfkeys
+.code.tex))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/pgf/math\pgfmath.sty
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/utilities\pgffor.
+code.tex
+Package: pgffor 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/math\pgfmath.code
+.tex)
+\pgffor@iter=\dimen262
+\pgffor@skip=\dimen263
+\pgffor@stack=\toks32
+\pgffor@toks=\toks33
+))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z\tikz.code.tex
+Package: tikz 2020/12/27 v3.1.8b (3.1.8b)
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/libraries\pgflibr
+aryplothandlers.code.tex
+File: pgflibraryplothandlers.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgf@plot@mark@count=\count295
+\pgfplotmarksize=\dimen264
+)
+\tikz@lastx=\dimen265
+\tikz@lasty=\dimen266
+\tikz@lastxsaved=\dimen267
+\tikz@lastysaved=\dimen268
+\tikz@lastmovetox=\dimen269
+\tikz@lastmovetoy=\dimen270
+\tikzleveldistance=\dimen271
+\tikzsiblingdistance=\dimen272
+\tikz@figbox=\box103
+\tikz@figbox@bg=\box104
+\tikz@tempbox=\box105
+\tikz@tempbox@bg=\box106
+\tikztreelevel=\count296
+\tikznumberofchildren=\count297
+\tikznumberofcurrentchild=\count298
+\tikz@fig@count=\count299
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/modules\pgfmodule
+matrix.code.tex
+File: pgfmodulematrix.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+\pgfmatrixcurrentrow=\count300
+\pgfmatrixcurrentcolumn=\count301
+\pgf@matrix@numberofcolumns=\count302
+)
+\tikz@expandcount=\count303
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarytopaths.code.tex
+File: tikzlibrarytopaths.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/everypage\everypage.sty
+Package: everypage 2020/10/17 R2.0b Hooks to run on every page
+
+Package everypage Warning: Functionality similar to this package has recently
+(everypage)                been implemented in LaTeX. This package is now in
+(everypage)                legacy status.
+(everypage)                Please, don't use it in new documents and packages.
+
+
+Package everypage Warning: You appear to be running a version of LaTeX
+(everypage)                providing the new functionality.
+(everypage)                Doing the best to deliver the original `everypage`
+(everypage)                interface on top of it. Strict equivalence is
+(everypage)                not possible, breakage may occur.
+(everypage)                If truly needed, Use `everypage-1x` to force the
+(everypage)                loading of an older code base.
+
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\afterpage.s
+ty
+Package: afterpage 2014/10/28 v1.08 After-Page Package (DPC)
+\AP@output=\toks34
+\AP@partial=\box107
+\AP@footins=\box108
+))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/pgf/frontendlayer/tik
+z/libraries\tikzlibrarycalc.code.tex
+File: tikzlibrarycalc.code.tex 2020/12/27 v3.1.8b (3.1.8b)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count304
+\Gm@cntv=\count305
+\c@Gm@tempcnt=\count306
+\Gm@bindingoffset=\dimen273
+\Gm@wd@mp=\dimen274
+\Gm@odd@mp=\dimen275
+\Gm@even@mp=\dimen276
+\Gm@layoutwidth=\dimen277
+\Gm@layoutheight=\dimen278
+\Gm@layouthoffset=\dimen279
+\Gm@layoutvoffset=\dimen280
+\Gm@dimlist=\toks35
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geometry.cfg))
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcaption.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+\c@subfigure=\count307
+\c@subtable=\count308
+) (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.def
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count309
+\U@D=\dimen281
+\l@babelnohyphens=\language79
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count310
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/babel-english\english.l
+df
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language73) on input line 108.
+)) (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks36
+\inpenc@posthook=\toks37
+) (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/fancyhdr\fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and foote
+rs
+\f@nch@headwidth=\skip55
+\f@nch@O@elh=\skip56
+\f@nch@O@erh=\skip57
+\f@nch@O@olh=\skip58
+\f@nch@O@orh=\skip59
+\f@nch@O@elf=\skip60
+\f@nch@O@erf=\skip61
+\f@nch@O@olf=\skip62
+\f@nch@O@orf=\skip63
+)
+No file document.aux.
+\openout1 = `document.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 53.
+LaTeX Font Info:    ... okay on input line 53.
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count311
+\scratchdimen=\dimen282
+\scratchbox=\box109
+\nofMPsegments=\count312
+\nofMParguments=\count313
+\everyMPshowfont=\toks38
+\MPscratchCnt=\count314
+\MPscratchDim=\dimen283
+\MPnumerator=\count315
+\makeMPintoPDFobject=\count316
+\everyMPtoPDFconversion=\toks39
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package hyperref Info: Link coloring OFF on input line 53.
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestring\gettit
+lestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count317
+)
+LaTeX Info: Redefining \ref on input line 53.
+LaTeX Info: Redefining \pageref on input line 53.
+LaTeX Info: Redefining \nameref on input line 53.
+\@outlinefile=\write4
+\openout4 = `document.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(56.9055pt, 483.69684pt, 56.90553pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23582pt, 56.90552pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69684pt
+* \textheight=731.23582pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(titlepage.tex
+
+LaTeX Warning: File `university.png' not found on input line 21.
+
+
+! Package pdftex.def Error: File `university.png' not found: using draft settin
+g.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 		\includegraphics[scale=0.6]{university.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[1
+
+{C:/Users/gulsh/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]) (preface.tex) 
+(undertaking.texpdfTeX warning (ext4): destination with the same identifier (na
+me{page.1}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.1 \chapter
+            *{Undertaking} [1
+
+]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
+
+
+(C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+(certificate.tex [2
+
+]
+Overfull \hbox (10.96326pt too wide) in paragraph at lines 4--5
+\OT1/cmr/m/n/10 This is to cer-tify that the Project re-port en-ti-tled \OT1/cm
+r/bx/n/10 \Smart Hel-met" \OT1/cmr/m/n/10 done by Gul-shan Ku-mar Sharma (17161
+10074),
+ []
+
+) (acknowledgement.tex [3
+
+]) (abstract.tex
+Overfull \hbox (160.11052pt too wide) in paragraph at lines 16--1
+[]$[]$
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 16--1
+
+ []
+
+[4
+
+]) [5
+
+]
+\tf@toc=\write5
+\openout5 = `document.toc'.
+
+ [6
+
+]
+\tf@lof=\write6
+\openout6 = `document.lof'.
+
+ [7
+
+]
+\tf@lot=\write7
+\openout7 = `document.lot'.
+
+ (introduction.tex [8
+
+]
+Chapter 1.
+[9
+
+]
+
+LaTeX Warning: File `main-qimg-fd30ac2527eb37908aa5f1e1c9aa0a27.png' not found 
+on input line 88.
+
+
+! Package pdftex.def Error: File `main-qimg-fd30ac2527eb37908aa5f1e1c9aa0a27.pn
+g' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...qimg-fd30ac2527eb37908aa5f1e1c9aa0a27.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[10]
+
+LaTeX Warning: File `learning-to-live-again-with-tbi.jpg' not found on input li
+ne 110.
+
+
+! Package pdftex.def Error: File `learning-to-live-again-with-tbi.jpg' not foun
+d: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.110 ...=.8]{learning-to-live-again-with-tbi.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `Basic-components-of-a-helmet-Photo-in-the-public-domain-ad
+apted-to-remove-background.jpg' not found on input line 139.
+
+
+! Package pdftex.def Error: File `Basic-components-of-a-helmet-Photo-in-the-pub
+lic-domain-adapted-to-remove-background.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.139 ...-domain-adapted-to-remove-background.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[11]
+
+LaTeX Warning: File `shark_s900_special-min-300x300.jpg' not found on input lin
+e 223.
+
+
+! Package pdftex.def Error: File `shark_s900_special-min-300x300.jpg' not found
+: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.223 ...=.35]{shark_s900_special-min-300x300.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `helmet_caberg_flip-front_duke_2_matt-black_detail2-300x300
+.jpg' not found on input line 232.
+
+
+! Package pdftex.def Error: File `helmet_caberg_flip-front_duke_2_matt-black_de
+tail2-300x300.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.232 ...nt_duke_2_matt-black_detail2-300x300.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[12]
+
+LaTeX Warning: File `bell_helmets_moto-3_blackout-300x300.jpg' not found on inp
+ut line 242.
+
+
+! Package pdftex.def Error: File `bell_helmets_moto-3_blackout-300x300.jpg' not
+ found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.242 ...bell_helmets_moto-3_blackout-300x300.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `word-image-6-300x300.jpeg' not found on input line 251.
+
+
+! Package pdftex.def Error: File `word-image-6-300x300.jpeg' not found: using d
+raft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.251 ...ics[scale=.35]{word-image-6-300x300.jpeg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `RB-100-MATT-SCHWARZ_ml-300x270.jpg' not found on input lin
+e 260.
+
+
+! Package pdftex.def Error: File `RB-100-MATT-SCHWARZ_ml-300x270.jpg' not found
+: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.260 ...=.35]{RB-100-MATT-SCHWARZ_ml-300x270.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `arai_tour-x4_diamond-white-300x300.jpg' not found on input
+ line 269.
+
+
+! Package pdftex.def Error: File `arai_tour-x4_diamond-white-300x300.jpg' not f
+ound: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.269 ...]{arai_tour-x4_diamond-white-300x300.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: File `forcite-mk1-smart-helmet-australian-2020-09.jpg' not found
+ on input line 279.
+
+
+! Package pdftex.def Error: File `forcite-mk1-smart-helmet-australian-2020-09.j
+pg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.279 ...-mk1-smart-helmet-australian-2020-09.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13] [14]
+Underfull \hbox (badness 10000) in paragraph at lines 328--328
+[]\OT1/cmr/bx/n/14.4 Objective|
+ []
+
+) (research.tex [15]
+Chapter 2.
+
+LaTeX Warning: File `Flow diagram of the system.jpg' not found on input line 16
+.
+
+
+! Package pdftex.def Error: File `Flow diagram of the system.jpg' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.16 ...scale=.55]{Flow diagram of the system.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[16
+
+]
+
+LaTeX Warning: File `helmet unit.jpg' not found on input line 36.
+
+
+! Package pdftex.def Error: File `helmet unit.jpg' not found: using draft setti
+ng.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.36 	\includegraphics[scale=.9]{helmet unit.jpg}
+                                                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[17]
+
+LaTeX Warning: File `MQ3-Alcohol-Sensor.jpg' not found on input line 61.
+
+
+! Package pdftex.def Error: File `MQ3-Alcohol-Sensor.jpg' not found: using draf
+t setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61 ...raphics[scale=.55]{MQ3-Alcohol-Sensor.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `MQ3-Alcohol-Sensor-Parts-Hardware-Overview.jpg' not found 
+on input line 91.
+
+
+! Package pdftex.def Error: File `MQ3-Alcohol-Sensor-Parts-Hardware-Overview.jp
+g' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.91 ...lcohol-Sensor-Parts-Hardware-Overview.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `MQ3-Alcohol-Sensor-Internal-Structure.jpg' not found on in
+put line 98.
+
+
+! Package pdftex.def Error: File `MQ3-Alcohol-Sensor-Internal-Structure.jpg' no
+t found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.98 ...MQ3-Alcohol-Sensor-Internal-Structure.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[18]
+
+LaTeX Warning: File `MQ3-Alcohol-Sensor-Module.jpg' not found on input line 109
+.
+
+
+! Package pdftex.def Error: File `MQ3-Alcohol-Sensor-Module.jpg' not found: usi
+ng draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.109 ...[scale=.6]{MQ3-Alcohol-Sensor-Module.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `MQ3-Alcohol-Sensor-Pinout.png' not found on input line 116
+.
+
+
+! Package pdftex.def Error: File `MQ3-Alcohol-Sensor-Pinout.png' not found: usi
+ng draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.116 ...[scale=.7]{MQ3-Alcohol-Sensor-Pinout.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `it41m01.jpg' not found on input line 143.
+
+
+! Package pdftex.def Error: File `it41m01.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.143 	\includegraphics[scale=.3]{it41m01.jpg}
+                                              
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[19]
+
+LaTeX Warning: File `512k5yca6zl-_sl1280_-500x500.jpg' not found on input line 
+155.
+
+
+! Package pdftex.def Error: File `512k5yca6zl-_sl1280_-500x500.jpg' not found: 
+using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.155 ...ale=.3]{512k5yca6zl-_sl1280_-500x500.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `433MHz-RF-Transmitter-Amplitude-Shift-Keying-ASK-Waveform.
+png' not found on input line 180.
+
+
+! Package pdftex.def Error: File `433MHz-RF-Transmitter-Amplitude-Shift-Keying-
+ASK-Waveform.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.180 ...-Amplitude-Shift-Keying-ASK-Waveform.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: File `433MHz-RF-Wireless-Transmitter-Pinout.png' not found on in
+put line 188.
+
+
+! Package pdftex.def Error: File `433MHz-RF-Wireless-Transmitter-Pinout.png' no
+t found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.188 ...33MHz-RF-Wireless-Transmitter-Pinout.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[20]
+
+LaTeX Warning: File `RF-Transmitter.png' not found on input line 203.
+
+
+! Package pdftex.def Error: File `RF-Transmitter.png' not found: using draft se
+tting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.203 ...udegraphics[scale=.6]{RF-Transmitter.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[21]
+
+LaTeX Warning: File `9v-Battery-Hi-Watt-long-life-factoryforward-458x458.png' n
+ot found on input line 234.
+
+
+! Package pdftex.def Error: File `9v-Battery-Hi-Watt-long-life-factoryforward-4
+58x458.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.234 ...att-long-life-factoryforward-458x458.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `download.jpg' not found on input line 249.
+
+
+! Package pdftex.def Error: File `download.jpg' not found: using draft setting.
+
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.249 	\includegraphics[scale=.3]{download.jpg}
+                                               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[22]
+
+LaTeX Warning: File `electrolytic-capacitor-pinout.png' not found on input line
+ 259.
+
+
+! Package pdftex.def Error: File `electrolytic-capacitor-pinout.png' not found:
+ using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.259 ...le=.5]{electrolytic-capacitor-pinout.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `HT12E-Encoder-Pinout-diagram-Configuration.png' not found 
+on input line 270.
+
+
+! Package pdftex.def Error: File `HT12E-Encoder-Pinout-diagram-Configuration.pn
+g' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.270 ...Encoder-Pinout-diagram-Configuration.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[23]
+
+LaTeX Warning: File `Vehicle unit.jpg' not found on input line 284.
+
+
+! Package pdftex.def Error: File `Vehicle unit.jpg' not found: using draft sett
+ing.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.284 ...ludegraphics[scale=1.3]{Vehicle unit.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `51JDasXMQAL._SL1176_.jpg' not found on input line 295.
+
+
+! Package pdftex.def Error: File `51JDasXMQAL._SL1176_.jpg' not found: using dr
+aft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.295 ...phics[scale=.4]{51JDasXMQAL._SL1176_.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `RF-Receiver.png' not found on input line 318.
+
+
+! Package pdftex.def Error: File `RF-Receiver.png' not found: using draft setti
+ng.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.318 ...cludegraphics[scale=.65]{RF-Receiver.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[24]
+
+LaTeX Warning: File `Figure-2-Reed-switch.jpg' not found on input line 334.
+
+
+! Package pdftex.def Error: File `Figure-2-Reed-switch.jpg' not found: using dr
+aft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.334 ...hics[scale=.35]{Figure-2-Reed-switch.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `Reed-switches_2.png' not found on input line 353.
+
+
+! Package pdftex.def Error: File `Reed-switches_2.png' not found: using draft s
+etting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.353 ...egraphics[scale=.15]{Reed-switches_2.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[25] [26]
+
+LaTeX Warning: File `gsm-sim800l-module-500x500.jpg' not found on input line 40
+2.
+
+
+! Package pdftex.def Error: File `gsm-sim800l-module-500x500.jpg' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.402 ...scale=.6]{gsm-sim800l-module-500x500.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `RELAY 12V.jpeg' not found on input line 428.
+
+
+! Package pdftex.def Error: File `RELAY 12V.jpeg' not found: using draft settin
+g.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.428 	\includegraphics[scale=.6]{RELAY 12V.jpeg}
+                                                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[27]
+
+LaTeX Warning: File `1B.jpg' not found on input line 441.
+
+
+! Package pdftex.def Error: File `1B.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.441 	\includegraphics[scale=.4]{1B.jpg}
+                                         
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `417ofv1fVpL._SX342_.jpg' not found on input line 454.
+
+
+! Package pdftex.def Error: File `417ofv1fVpL._SX342_.jpg' not found: using dra
+ft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.454 ...aphics[scale=.4]{417ofv1fVpL._SX342_.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `download.png' not found on input line 470.
+
+
+! Package pdftex.def Error: File `download.png' not found: using draft setting.
+
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.470 	\includegraphics[scale=.9]{download.png}
+                                               
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[28]
+
+LaTeX Warning: File `16x2-lcd-display-green-500x500.jpg' not found on input lin
+e 497.
+
+
+! Package pdftex.def Error: File `16x2-lcd-display-green-500x500.jpg' not found
+: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.497 ...e=.4]{16x2-lcd-display-green-500x500.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[29]
+
+LaTeX Warning: File `16x2-LCD-Display-Pin-Description.jpg' not found on input l
+ine 533.
+
+
+! Package pdftex.def Error: File `16x2-LCD-Display-Pin-Description.jpg' not fou
+nd: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.533 ....4]{16x2-LCD-Display-Pin-Description.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[30]
+
+LaTeX Warning: File `board_description.png' not found on input line 557.
+
+
+! Package pdftex.def Error: File `board_description.png' not found: using draft
+ setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.557 ...graphics[scale=.7]{board_description.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[31] [32]
+
+LaTeX Warning: File `High-quality-electronic-components-atmega328-for-distribut
+ors.png' not found on input line 639.
+
+
+! Package pdftex.def Error: File `High-quality-electronic-components-atmega328-
+for-distributors.png' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.639 ...omponents-atmega328-for-distributors.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `ATmega328-Ports.png' not found on input line 658.
+
+
+! Package pdftex.def Error: File `ATmega328-Ports.png' not found: using draft s
+etting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.658 ...egraphics[scale=.42]{ATmega328-Ports.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[33]
+
+LaTeX Warning: File `Buzzer.jpg' not found on input line 712.
+
+
+! Package pdftex.def Error: File `Buzzer.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.712 	\includegraphics[scale=.5]{Buzzer.jpg}
+                                             
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[34] [35]
+Overfull \hbox (12.92839pt too wide) in paragraph at lines 731--737
+ [] 
+ []
+
+
+LaTeX Warning: File `Buzzer-Pinout.png' not found on input line 742.
+
+
+! Package pdftex.def Error: File `Buzzer-Pinout.png' not found: using draft set
+ting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.742 ...ludegraphics[scale=.5]{Buzzer-Pinout.png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `general-purpose-printed-circuit-board-mini-7-5-x-5-cm-mini
+-zero-pcb-board-500x500.jpg' not found on input line 749.
+
+
+! Package pdftex.def Error: File `general-purpose-printed-circuit-board-mini-7-
+5-x-5-cm-mini-zero-pcb-board-500x500.jpg' not found: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.749 ...5-x-5-cm-mini-zero-pcb-board-500x500.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `HT12D-pinout-diagram.jpg' not found on input line 756.
+
+
+! Package pdftex.def Error: File `HT12D-pinout-diagram.jpg' not found: using dr
+aft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.756 ...phics[scale=.3]{HT12D-pinout-diagram.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (assembling.tex [36] [37]
+Chapter 3.
+
+LaTeX Warning: File `Screenshot (17).png' not found on input line 10.
+
+
+! Package pdftex.def Error: File `Screenshot (17).png' not found: using draft s
+etting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 ...degraphics[scale=.35]{Screenshot (17).png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `Screenshot (19).png' not found on input line 17.
+
+
+! Package pdftex.def Error: File `Screenshot (19).png' not found: using draft s
+etting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17 ...degraphics[scale=.48]{Screenshot (19).png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[38
+
+]
+
+LaTeX Warning: File `Screenshot (21).png' not found on input line 23.
+
+
+! Package pdftex.def Error: File `Screenshot (21).png' not found: using draft s
+etting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...degraphics[scale=.45]{Screenshot (21).png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `Screenshot (23).png' not found on input line 38.
+
+
+! Package pdftex.def Error: File `Screenshot (23).png' not found: using draft s
+etting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.38 ...degraphics[scale=.35]{Screenshot (23).png}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[39]
+LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 6
+0.
+ (C:\Users\gulsh\AppData\Local\Programs\MiKTeX\tex/latex/base\omscmr.fd
+File: omscmr.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 60.
+
+Underfull \hbox (badness 10000) in paragraph at lines 89--97
+
+ []
+
+[40]
+Underfull \hbox (badness 10000) in paragraph at lines 174--179
+
+ []
+
+[41]
+Underfull \hbox (badness 10000) in paragraph at lines 180--183
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 198--204
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 205--219
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 227--237
+
+ []
+
+[42]) (working.tex [43]
+Chapter 4.
+
+LaTeX Warning: File `ignition-switch-lock-1-500x500.jpg' not found on input lin
+e 7.
+
+
+! Package pdftex.def Error: File `ignition-switch-lock-1-500x500.jpg' not found
+: using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 ...le=.25]{ignition-switch-lock-1-500x500.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `IMG_20210617_140308604 - Copy.jpg' not found on input line
+ 15.
+
+
+! Package pdftex.def Error: File `IMG_20210617_140308604 - Copy.jpg' not found:
+ using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.15 ...le=.09]{IMG_20210617_140308604 - Copy.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `IMG_20210617_140313983.jpg' not found on input line 26.
+
+
+! Package pdftex.def Error: File `IMG_20210617_140313983.jpg' not found: using 
+draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 ...hics[scale=.1]{IMG_20210617_140313983.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `IMG_20210617_140318107.jpg' not found on input line 33.
+
+
+! Package pdftex.def Error: File `IMG_20210617_140318107.jpg' not found: using 
+draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.33 ...cs[scale=.035]{IMG_20210617_140318107.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: File `IMG_20210617_140708629.jpg' not found on input line 42.
+
+
+! Package pdftex.def Error: File `IMG_20210617_140708629.jpg' not found: using 
+draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42 ...ics[scale=.04]{IMG_20210617_140708629.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+
+LaTeX Warning: File `IMG_20210617_140538144.jpg' not found on input line 58.
+
+
+! Package pdftex.def Error: File `IMG_20210617_140538144.jpg' not found: using 
+draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.58 ...ics[scale=.05]{IMG_20210617_140538144.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[44
+
+]
+
+LaTeX Warning: File `IMG_20210617_140301651 - Copy.jpg' not found on input line
+ 67.
+
+
+! Package pdftex.def Error: File `IMG_20210617_140301651 - Copy.jpg' not found:
+ using draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 ...ale=.5]{IMG_20210617_140301651 - Copy.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[45]
+
+LaTeX Warning: File `IMG_20210617_140428818.jpg' not found on input line 79.
+
+
+! Package pdftex.def Error: File `IMG_20210617_140428818.jpg' not found: using 
+draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.79 ...ics[scale=.08]{IMG_20210617_140428818.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `IMG_20210617_140334704.jpg' not found on input line 96.
+
+
+! Package pdftex.def Error: File `IMG_20210617_140334704.jpg' not found: using 
+draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.96 ...ics[scale=.06]{IMG_20210617_140334704.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+) (conclusion.tex [46]
+Chapter 5.
+[47
+
+]) (suggestions.tex [48]
+Chapter 6.
+[49
+
+] [50] [51] [52]) (research paper 1.tex [53] [54
+
+]
+
+LaTeX Warning: File `Flow diagram of the system.jpg' not found on input line 51
+.
+
+
+! Package pdftex.def Error: File `Flow diagram of the system.jpg' not found: us
+ing draft setting.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 ...scale=.55]{Flow diagram of the system.jpg}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+LaTeX Warning: File `helmet unit.jpg' not found on input line 74.
+
+
+! Package pdftex.def Error: File `helmet unit.jpg' not found: using draft setti
+ng.
+
+See the pdftex.def package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.74 	\includegraphics[scale=.5]{helmet unit.jpg}
+                                                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[55]
+
+! LaTeX Error: File `"images/working flow diagram"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.88 ...\linewidth]{"images/working flow diagram"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `"images/buckle working"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.103 ...h=0.7\linewidth]{"images/buckle working"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[56]
+
+! LaTeX Error: File `"images/Vehicle unit"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.125 ...dth=0.7\linewidth]{"images/Vehicle unit"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `"images/vehicle unit working"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.138 ...linewidth]{"images/vehicle unit working"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `images/dsfs' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156 ...raphics[width=0.7\linewidth]{images/dsfs}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[57]
+
+! LaTeX Error: File `images/bhjb' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.165 ...raphics[width=0.7\linewidth]{images/bhjb}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+[58]
+
+! LaTeX Error: File `"images/Status of rider"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.176 ...=0.7\linewidth]{"images/Status of rider"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `"images/fas sa"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.189 ...ics[width=0.7\linewidth]{"images/fas sa"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+! LaTeX Error: File `"images/faf af"' not found.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.201 ...ics[width=0.4\linewidth]{"images/faf af"}
+                                                  
+I could not locate the file with any of these extensions:
+.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPEG,.JBIG2,.JB2,.eps
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--225
+
+ []
+
+[59] [60]) (bibliography.tex [61
+
+] [62
+
+]) [63] (document.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `document.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `document.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  65A96944AB5A979C386DCA8B29B27E26;12104.
+ ) 
+Here is how much of TeX's memory you used:
+ 24540 strings out of 479334
+ 466559 string characters out of 2857085
+ 805668 words of memory out of 3000000
+ 41233 multiletter control sequences out of 15000+200000
+ 408708 words of font info for 47 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 102i,12n,103p,1172b,1141s stack positions out of 5000i,500n,10000p,200000b,50000s
+ <C:\Users\gulsh\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
+1000.pk><C:/Users/gulsh/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmbx10.pfb><C:/Users/gulsh/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmbx12.pfb><C:/Users/gulsh/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmmi10.pfb><C:/Users/gulsh/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/gulsh/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/gulsh/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pfb><C:/Users/gulsh/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on document.pdf (64 pages, 314123 bytes).
+PDF statistics:
+ 530 PDF objects out of 1000 (max. 8388607)
+ 234 named destinations out of 1000 (max. 500000)
+ 13 words of extra memory for PDF output out of 10000 (max. 10000000)
+

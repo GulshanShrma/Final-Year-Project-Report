@@ -1,0 +1,65 @@
+\babel@toc {english}{}
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {1.1}{\ignorespaces Structure of Head.\relax }}{10}{figure.caption.14}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces Types of head injuries.\relax }}{11}{figure.caption.15}%
+\contentsline {figure}{\numberline {1.3}{\ignorespaces Components of a helmet.\relax }}{11}{figure.caption.16}%
+\contentsline {figure}{\numberline {1.4}{\ignorespaces Full-face helmet.\relax }}{12}{figure.caption.17}%
+\contentsline {figure}{\numberline {1.5}{\ignorespaces Modular/Flip-Up Helmet.\relax }}{12}{figure.caption.18}%
+\contentsline {figure}{\numberline {1.6}{\ignorespaces Off Road/Motocross.\relax }}{13}{figure.caption.19}%
+\contentsline {figure}{\numberline {1.7}{\ignorespaces Open face helmet.\relax }}{13}{figure.caption.20}%
+\contentsline {figure}{\numberline {1.8}{\ignorespaces Half Helmet/Pudding Basin.\relax }}{13}{figure.caption.21}%
+\contentsline {figure}{\numberline {1.9}{\ignorespaces Adventure/Dual Sport Helmet.\relax }}{14}{figure.caption.22}%
+\contentsline {figure}{\numberline {1.10}{\ignorespaces Smart Helmet.\relax }}{14}{figure.caption.23}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Flow diagram of the proposed system.\relax }}{16}{figure.caption.26}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Helmet unit.\relax }}{17}{figure.caption.27}%
+\contentsline {figure}{\numberline {2.3}{\ignorespaces MQ3-Alcohol-Sensor\relax }}{18}{figure.caption.28}%
+\contentsline {figure}{\numberline {2.4}{\ignorespaces MQ3 Alcohol Sensor Upper Section.\relax }}{18}{figure.caption.30}%
+\contentsline {figure}{\numberline {2.5}{\ignorespaces MQ3 Alcohol Sensor Pin Section.\relax }}{19}{figure.caption.31}%
+\contentsline {figure}{\numberline {2.6}{\ignorespaces MQ3 Alcohol Sensor.\relax }}{19}{figure.caption.32}%
+\contentsline {figure}{\numberline {2.7}{\ignorespaces MQ3 Alcohol Sensor Pin Diagram.\relax }}{19}{figure.caption.33}%
+\contentsline {figure}{\numberline {2.8}{\ignorespaces Limit Switch.\relax }}{20}{figure.caption.34}%
+\contentsline {figure}{\numberline {2.9}{\ignorespaces RF Transmitter.\relax }}{20}{figure.caption.35}%
+\contentsline {figure}{\numberline {2.10}{\ignorespaces Amplitude Modulation.\relax }}{21}{figure.caption.36}%
+\contentsline {figure}{\numberline {2.11}{\ignorespaces RF Transmitter Pin Diagram.\relax }}{21}{figure.caption.37}%
+\contentsline {figure}{\numberline {2.12}{\ignorespaces RF Transmitter Circuit Diagram.\relax }}{21}{figure.caption.38}%
+\contentsline {figure}{\numberline {2.13}{\ignorespaces 9V Battery.\relax }}{22}{figure.caption.40}%
+\contentsline {figure}{\numberline {2.14}{\ignorespaces Diode.\relax }}{22}{figure.caption.41}%
+\contentsline {figure}{\numberline {2.15}{\ignorespaces Capacitor.\relax }}{23}{figure.caption.42}%
+\contentsline {figure}{\numberline {2.16}{\ignorespaces HT12E Pinout Diagram.\relax }}{23}{figure.caption.43}%
+\contentsline {figure}{\numberline {2.17}{\ignorespaces Proposed Bike Section.\relax }}{24}{figure.caption.44}%
+\contentsline {figure}{\numberline {2.18}{\ignorespaces RF Receiver.\relax }}{24}{figure.caption.45}%
+\contentsline {figure}{\numberline {2.19}{\ignorespaces RF Receiver Circuit Diagram.\relax }}{25}{figure.caption.47}%
+\contentsline {figure}{\numberline {2.20}{\ignorespaces Reed Switch.\relax }}{25}{figure.caption.48}%
+\contentsline {figure}{\numberline {2.21}{\ignorespaces Reed Switch Working.\relax }}{25}{figure.caption.49}%
+\contentsline {figure}{\numberline {2.22}{\ignorespaces SIM 800L GSM Module.\relax }}{27}{figure.caption.50}%
+\contentsline {figure}{\numberline {2.23}{\ignorespaces Relay Switch.\relax }}{27}{figure.caption.51}%
+\contentsline {figure}{\numberline {2.24}{\ignorespaces 12V DC Motor.\relax }}{28}{figure.caption.52}%
+\contentsline {figure}{\numberline {2.25}{\ignorespaces LED.\relax }}{28}{figure.caption.53}%
+\contentsline {figure}{\numberline {2.26}{\ignorespaces LED Pin Diagram.\relax }}{28}{figure.caption.54}%
+\contentsline {figure}{\numberline {2.27}{\ignorespaces LCD Display.\relax }}{29}{figure.caption.55}%
+\contentsline {figure}{\numberline {2.28}{\ignorespaces LCD Display Pin Diagram.\relax }}{30}{figure.caption.57}%
+\contentsline {figure}{\numberline {2.29}{\ignorespaces Arduino UNO.\relax }}{31}{figure.caption.58}%
+\contentsline {figure}{\numberline {2.30}{\ignorespaces ATmega 328P IC.\relax }}{33}{figure.caption.59}%
+\contentsline {figure}{\numberline {2.31}{\ignorespaces ATmega 328 Ports.\relax }}{33}{figure.caption.60}%
+\contentsline {figure}{\numberline {2.32}{\ignorespaces Buzzer.\relax }}{34}{figure.caption.62}%
+\contentsline {figure}{\numberline {2.33}{\ignorespaces Buzzer Pinout.\relax }}{36}{figure.caption.64}%
+\contentsline {figure}{\numberline {2.34}{\ignorespaces Zero PCB Board.\relax }}{36}{figure.caption.65}%
+\contentsline {figure}{\numberline {2.35}{\ignorespaces HT12D Pinout Diagram.\relax }}{37}{figure.caption.66}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Devices and Printers.\relax }}{38}{figure.caption.67}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Setting Up Arduino Nano.\relax }}{38}{figure.caption.68}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Setting Up ATmega 328P.\relax }}{39}{figure.caption.69}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Project Code In Arduino IDE.\relax }}{39}{figure.caption.70}%
+\addvspace {10\p@ }
+\contentsline {figure}{\numberline {4.1}{\ignorespaces Ignition Switch.\relax }}{44}{figure.caption.71}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces RF Receiver Section.\relax }}{44}{figure.caption.72}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces Heart Of System.\relax }}{44}{figure.caption.73}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Relay Circuit.\relax }}{45}{figure.caption.74}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Helmet Unit.\relax }}{45}{figure.caption.75}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces MQ3 Sensor.\relax }}{45}{figure.caption.76}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Buzzer Circuit.\relax }}{46}{figure.caption.77}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Limit Switch.\relax }}{46}{figure.caption.78}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces GSM Module.\relax }}{46}{figure.caption.79}%
+\addvspace {10\p@ }
+\addvspace {10\p@ }

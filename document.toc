@@ -1,0 +1,88 @@
+\babel@toc {english}{}
+\contentsline {chapter}{Preface}{1}{chapter*.1}%
+\contentsline {chapter}{Undertaking}{2}{chapter*.2}%
+\contentsline {chapter}{Certificate}{3}{chapter*.3}%
+\contentsline {chapter}{Acknowledgement}{4}{chapter*.4}%
+\contentsline {chapter}{Abstract}{5}{chapter*.5}%
+\contentsline {chapter}{List of Figures}{7}{chapter*.7}%
+\contentsline {chapter}{List of Tables}{8}{chapter*.8}%
+\contentsline {chapter}{\numberline {1}Introduction}{9}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{9}{section.1.1}%
+\contentsline {paragraph}{}{9}{paragraph*.9}%
+\contentsline {paragraph}{}{9}{paragraph*.10}%
+\contentsline {paragraph}{}{9}{paragraph*.11}%
+\contentsline {paragraph}{}{9}{paragraph*.12}%
+\contentsline {paragraph}{Major reason}{10}{paragraph*.13}%
+\contentsline {section}{\numberline {1.2}Can a helmet protect your head?}{10}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}The mechanism of head injuries}{10}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}How a helmet works}{11}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}Motorcycle helmet design}{12}{subsection.1.2.3}%
+\contentsline {section}{\numberline {1.3}Helmet use is effective at reducing head injuries}{13}{section.1.3}%
+\contentsline {paragraph}{}{14}{paragraph*.24}%
+\contentsline {section}{\numberline {1.4}Need Of Project}{15}{section.1.4}%
+\contentsline {chapter}{\numberline {2}Research}{16}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Proposed System}{16}{section.2.1}%
+\contentsline {section}{\numberline {2.2}System Design}{17}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Helmet Section}{17}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}MQ3 Alcohol Sensor}{18}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Internal structure of MQ3 Alcohol Sensor}{18}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}How MQ3 Alcohol Sensor Works?}{19}{subsection.2.3.3}%
+\contentsline {subsection}{\numberline {2.3.4}MQ3 Alcohol Sensor Module Pinout}{19}{subsection.2.3.4}%
+\contentsline {subsection}{\numberline {2.3.5}Limit Switch}{19}{subsection.2.3.5}%
+\contentsline {subsection}{\numberline {2.3.6}RF Transmitter}{20}{subsection.2.3.6}%
+\contentsline {subsection}{\numberline {2.3.7}ASK – Amplitude Shift Keying}{20}{subsection.2.3.7}%
+\contentsline {subsection}{\numberline {2.3.8}433MHz RF Transmitter Pinout}{20}{subsection.2.3.8}%
+\contentsline {subsection}{\numberline {2.3.9}RF Transmitter Circuit Diagram}{21}{subsection.2.3.9}%
+\contentsline {subsection}{\numberline {2.3.10}Battery (9 V)}{22}{subsection.2.3.10}%
+\contentsline {subsection}{\numberline {2.3.11}Diode}{22}{subsection.2.3.11}%
+\contentsline {subsection}{\numberline {2.3.12}Capacitor}{22}{subsection.2.3.12}%
+\contentsline {subsection}{\numberline {2.3.13}HT12E}{23}{subsection.2.3.13}%
+\contentsline {section}{\numberline {2.4}Bike Section}{24}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}RF Receiver}{24}{subsection.2.4.1}%
+\contentsline {subsection}{\numberline {2.4.2}RF Reciever Circuit Diagram}{24}{subsection.2.4.2}%
+\contentsline {subsection}{\numberline {2.4.3}Reed Switch}{24}{subsection.2.4.3}%
+\contentsline {subsection}{\numberline {2.4.4}Reed switches Operation}{25}{subsection.2.4.4}%
+\contentsline {subsection}{\numberline {2.4.5}Sim 800L GSM Module}{25}{subsection.2.4.5}%
+\contentsline {subsection}{\numberline {2.4.6}Relay Switch}{27}{subsection.2.4.6}%
+\contentsline {subsection}{\numberline {2.4.7}12 V DC Motor}{28}{subsection.2.4.7}%
+\contentsline {subsection}{\numberline {2.4.8}LED}{28}{subsection.2.4.8}%
+\contentsline {subsection}{\numberline {2.4.9}LCD Display}{28}{subsection.2.4.9}%
+\contentsline {subsection}{\numberline {2.4.10}Arduino UNO}{31}{subsection.2.4.10}%
+\contentsline {subsection}{\numberline {2.4.11}ATmega 328P IC}{32}{subsection.2.4.11}%
+\contentsline {subsection}{\numberline {2.4.12}Buzzer}{34}{subsection.2.4.12}%
+\contentsline {subsection}{\numberline {2.4.13}Zero PCB Board}{36}{subsection.2.4.13}%
+\contentsline {subsection}{\numberline {2.4.14}HT12D}{36}{subsection.2.4.14}%
+\contentsline {chapter}{\numberline {3}Assembling}{38}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Getting Started With Arduino}{38}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Code}{40}{section.3.2}%
+\contentsline {chapter}{\numberline {4}Working}{44}{chapter.4}%
+\contentsline {section}{\numberline {4.1}Working Conditions}{45}{section.4.1}%
+\contentsline {subsection}{\numberline {4.1.1}Pressence Of Alchohol}{45}{subsection.4.1.1}%
+\contentsline {subsection}{\numberline {4.1.2}Rider Wearing Helmet Or Not?}{46}{subsection.4.1.2}%
+\contentsline {subsection}{\numberline {4.1.3}Rider Got Into An Accident}{46}{subsection.4.1.3}%
+\contentsline {chapter}{\numberline {5}Conclusion}{47}{chapter.5}%
+\contentsline {section}{\numberline {5.1}Driver Safety}{47}{section.5.1}%
+\contentsline {section}{\numberline {5.2}Enhanced Driving Experience }{47}{section.5.2}%
+\contentsline {section}{\numberline {5.3}Protection Against Head Injuries}{47}{section.5.3}%
+\contentsline {section}{\numberline {5.4}Protection Against Slips And Fall}{47}{section.5.4}%
+\contentsline {section}{\numberline {5.5}Increases Chances of Survival In Accidents}{48}{section.5.5}%
+\contentsline {section}{\numberline {5.6}Flying Objects}{48}{section.5.6}%
+\contentsline {section}{\numberline {5.7}Weather}{48}{section.5.7}%
+\contentsline {chapter}{\numberline {6}Suggestions}{49}{chapter.6}%
+\contentsline {section}{\numberline {6.1}Bluetooth connectivity}{49}{section.6.1}%
+\contentsline {section}{\numberline {6.2}WiFi Connectivity}{49}{section.6.2}%
+\contentsline {section}{\numberline {6.3}Voice assistance }{49}{section.6.3}%
+\contentsline {section}{\numberline {6.4}Make, Accept and Reject Calls }{50}{section.6.4}%
+\contentsline {section}{\numberline {6.5}Connect with smart devices }{50}{section.6.5}%
+\contentsline {section}{\numberline {6.6}Connect with other smart helmets and riders }{50}{section.6.6}%
+\contentsline {section}{\numberline {6.7}FM radio }{50}{section.6.7}%
+\contentsline {section}{\numberline {6.8}Intercom }{50}{section.6.8}%
+\contentsline {section}{\numberline {6.9}Heads-up Display }{50}{section.6.9}%
+\contentsline {section}{\numberline {6.10}Emergency Buttons }{51}{section.6.10}%
+\contentsline {section}{\numberline {6.11}Tracking systems}{51}{section.6.11}%
+\contentsline {section}{\numberline {6.12}Cameras }{51}{section.6.12}%
+\contentsline {section}{\numberline {6.13}Audio Alerts }{52}{section.6.13}%
+\contentsline {section}{\numberline {6.14}GPS Connectivity }{52}{section.6.14}%
+\contentsline {section}{\numberline {6.15}Better Hardware }{53}{section.6.15}%
+\contentsline {chapter}{Published Research Paper 1}{54}{chapter*.80}%
+\contentsline {chapter}{Remarks}{61}{chapter*.92}%

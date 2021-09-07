@@ -1,0 +1,75 @@
+\documentclass{report}
+\usepackage[nottoc]{tocbibind}
+\usepackage[explicit]{titlesec}
+\usepackage{enumerate}
+\usepackage{caption}
+\usepackage{graphics}
+\usepackage{hyperref}
+\usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{graphicx}
+\usepackage{lipsum}
+\usepackage{multicol}
+\usepackage{background}
+\usetikzlibrary{calc}
+
+\SetBgScale{1}
+\SetBgAngle{0}
+\SetBgColor{black}
+\SetBgContents{
+	\begin{tikzpicture}[overlay,remember picture]
+		\draw [line width=1pt,rounded corners=4pt,]
+		($ (current page.north west) + (1cm,-1.2cm) $)
+		rectangle
+		($ (current page.south east) + (-1cm,1.5cm) $);
+		\draw [line width=1pt,rounded corners=4pt,]
+		($ (current page.north west) + (1.05cm,-1.25cm) $)
+		rectangle
+		($ (current page.south east) + (-1.05cm,1.55cm) $);
+\end{tikzpicture}}
+\usepackage{geometry}
+\usepackage{subcaption}
+\geometry{
+	a4paper,
+	total={170mm,257mm},
+	left=20mm,
+	top=20mm,
+}
+\usepackage[english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+\renewcommand{\footrulewidth}{0.0pt}
+\renewcommand{\headrulewidth}{0.0pt}
+\rhead{CSE}
+\lhead{Smart Helmet}
+\rfoot{Page \thepage}
+\lfoot{1716110074, 1716110157, 1716110165, 1716110169}
+\graphicspath{ {./images/} }
+
+
+\begin{document}
+	\input{titlepage}
+	\input{preface}
+	\input{undertaking}
+	\input{certificate}
+	\input{acknowledgement}
+	\input{abstract}
+ 
+	\tableofcontents
+	
+	\listoffigures
+	\listoftables
+	
+	\input{introduction}
+	\input{research}	
+	\input{assembling}
+	\input{working}
+	\input{conclusion}
+	\input{suggestions}	
+	\input{research paper 1}
+	\input{bibliography}	
+		
+\end{document}
