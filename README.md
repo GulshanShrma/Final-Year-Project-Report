@@ -1,9 +1,9 @@
 # Final-Year-Project-Report-On-Smart-Helmet-Using-IOT
-This repository includes TeXstudio project files of my final year project report made in LaTeX on Smart Helmet for completion of my B.tech degree in final year (2021)
+This repository includes TeXstudio project files of my final year project report made in LaTeX on Smart Helmet for completion of my B.tech degree in final year (2021).
 
 ----------------------------------------------------------------------
 
-Main file is document.tex
+Main file is document.tex.
 This report can be viewed through file name document.pdf (Output of the code).
 In the images folder there are images tha are used in this project.
 Tex file naming research paper 1 is published in IJARESM's February 2021 Volume and can't be used by anyone else.
