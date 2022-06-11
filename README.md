@@ -12,6 +12,9 @@ Many packages used in this project are not installed by default so you may have 
 ----------------------------------------------------------------------
 
 Code for arduino is inside folder smartHelmetCode which can be verified in Arduino IDE before transfer to chip.
+
+----------------------------------------------------------------------
+
 SOFTWARES USED :-
   1.TeXstudio 3.1.2
   2.MiKTeX Console 4.2
