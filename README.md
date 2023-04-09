@@ -15,31 +15,32 @@ Code for arduino is inside folder smartHelmetCode which can be verified in Ardui
 
 ----------------------------------------------------------------------
 
-SOFTWARES USED :-
+# SOFTWARES USED :-
   1.TeXstudio 3.1.2
   2.MiKTeX Console 4.2
   3.Arduino IDE
 
 ----------------------------------------------------------------------
 
-HARDWARE COMPONENTS USED :-
-  1.MQ3 Alcohol Sensor
-  2.Limit Switch
-  3.RF Transmitter
-  4.Battery (9 V)
-  5.Diode
-  6.Capacitor
-  7.HT12E Encoder
-  8.RF Receiver
-  9.Reed Switch
-  10.Sim 800L GSM Module
-  11.Relay Switch
-  12.12 V DC Motor
-  13.LED
-  14.LCD Display
-  15.Arduino UNO
-  16.ATmega 328P IC
-  17.Buzzer
-  18.Zero PCB Board
-  19.HT12D Decoder
-  20.Crystal Oscillator
+# HARDWARE COMPONENTS USED :-
+
+1.MQ3 Alcohol Sensor <br>
+2.Limit Switch <br>
+3.RF Transmitter <br>
+4.Battery (9 V) <br>
+5.Diode <br>
+6.Capacitor <br>
+7.HT12E Encoder <br>
+8.RF Receiver <br>
+9.Reed Switch <br>
+10.Sim 800L GSM Module <br>
+11.Relay Switch <br>
+12.12 V DC Motor <br>
+13.LED <br>
+14.LCD Display <br>
+15.Arduino UNO <br>
+16.ATmega 328P IC <br>
+17.Buzzer <br>
+18.Zero PCB Board <br>
+19.HT12D Decoder <br>
+20.Crystal Oscillator <br>
